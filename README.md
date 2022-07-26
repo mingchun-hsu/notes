@@ -15,6 +15,8 @@
 
 ## Android
 
+- [Guide to app architecture](https://developer.android.com/topic/architecture)
+
 ### LiveData with Coroutines and Flow
 
 - [Part I: Reactive UIs](https://medium.com/androiddevelopers/livedata-with-coroutines-and-flow-part-i-reactive-uis-b20f676d25d7)
@@ -25,7 +27,6 @@
 - [Using Hilt in your Android app](https://developer.android.com/codelabs/android-hilt)
 - [Advanced Android in Kotlin 05.1:Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics)
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
-- [Modern Android App Architecture](https://developer.android.com/courses/pathways/android-architecture)
 
 ## Others
 - [一篇不太一样的RxJava介绍](https://juejin.cn/post/6844903518915002375)
