@@ -37,10 +37,10 @@
 - [Advanced Android in Kotlin 05.1:Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics)
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
+## Agile
+- [What is a scrum master?](https://www.atlassian.com/agile/scrum/scrum-master)
+
 ## Others
 - [一篇不太一样的RxJava介绍](https://juejin.cn/post/6844903518915002375)
 - [我为什么不再推荐RxJava](https://juejin.cn/post/6844903838978146317)
 - [Mavericks](https://airbnb.io/mavericks)
-
-## Agile
-- [What is a scrum master?](https://www.atlassian.com/agile/scrum/scrum-master)
