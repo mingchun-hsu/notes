@@ -14,7 +14,6 @@
 - [Coroutines & Patterns for work that shouldn’t be cancelled](https://medium.com/androiddevelopers/coroutines-patterns-for-work-that-shouldnt-be-cancelled-e26c40f142ad)
 
 ## Android
-- [Training Courses](https://developer.android.com/courses)
 ### Modern Android Development (MAD) Skills
 - [Guide to app architecture](https://developer.android.com/topic/architecture)
 
@@ -35,7 +34,7 @@
 ### CodeLab
 - [Using Hilt in your Android app](https://developer.android.com/codelabs/android-hilt)
 - [Advanced Android in Kotlin 05.1:Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics)
-- [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+- [Training Courses](https://developer.android.com/courses)
 
 ## Agile
 - [What is a scrum master?](https://www.atlassian.com/agile/scrum/scrum-master)
