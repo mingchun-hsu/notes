@@ -16,6 +16,8 @@
 ## Android
 ### Modern Android Development (MAD) Skills
 - [Guide to app architecture](https://developer.android.com/topic/architecture)
+- [Architecture learning journey](https://github.com/android/nowinandroid/blob/main/docs/ArchitectureLearningJourney.md)
+- [Modularization learning journey](https://github.com/android/nowinandroid/blob/main/docs/ModularizationLearningJourney.md)
 
 ### LiveData with Coroutines and Flow
 - [Part I: Reactive UIs](https://medium.com/androiddevelopers/livedata-with-coroutines-and-flow-part-i-reactive-uis-b20f676d25d7)
