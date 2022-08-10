@@ -30,6 +30,7 @@
 - [part III: real work](https://medium.com/androiddevelopers/coroutines-on-android-part-iii-real-work-2ba8a2ec2f45)
 
 ### Recycler View Series
+- [Adapting to ListAdapter](https://medium.com/androiddevelopers/adapting-to-listadapter-341da4218f5b)
 - [Handling click events in RecyclerView](https://medium.com/androiddevelopers/for-my-next-trick-i-will-write-about-onclick-45e0a6881c8a)
 - [Get ahead using headers in RecyclerView](https://medium.com/androiddevelopers/get-ahead-using-headers-in-recyclerview-2909a69b19)
 
