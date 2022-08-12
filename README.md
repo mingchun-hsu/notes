@@ -28,7 +28,6 @@
 - [Migrating from LiveData to Kotlin’s Flow](https://medium.com/androiddevelopers/migrating-from-livedata-to-kotlins-flow-379292f419fb)
 - [A safer way to collect flows from Android UIs](https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda)
 - [Things to know about Flow’s shareIn and stateIn operators](https://medium.com/androiddevelopers/things-to-know-about-flows-sharein-and-statein-operators-20e6ccb2bc74)
-- [Consuming flows safely in Jetpack Compose](https://medium.com/androiddevelopers/consuming-flows-safely-in-jetpack-compose-cde014d0d5a3)
 
 ### Coroutines on Android
 - [part I: Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
@@ -39,6 +38,9 @@
 - [Adapting to ListAdapter](https://medium.com/androiddevelopers/adapting-to-listadapter-341da4218f5b)
 - [Handling click events in RecyclerView](https://medium.com/androiddevelopers/for-my-next-trick-i-will-write-about-onclick-45e0a6881c8a)
 - [Get ahead using headers in RecyclerView](https://medium.com/androiddevelopers/get-ahead-using-headers-in-recyclerview-2909a69b19)
+
+### Compose
+- [Consuming flows safely in Jetpack Compose](https://medium.com/androiddevelopers/consuming-flows-safely-in-jetpack-compose-cde014d0d5a3)
 
 ### CodeLab
 - [Using Hilt in your Android app](https://developer.android.com/codelabs/android-hilt)
