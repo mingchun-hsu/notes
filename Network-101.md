@@ -9,3 +9,4 @@
 - [Trace Route](https://www.youtube.com/watch?v=up3bcBLZS74)
 - [Port Forwarding](https://www.youtube.com/watch?v=2G1ueMDgwxw)
 - [TCP vs UDP](https://www.youtube.com/watch?v=uwoD5YsGACg)
+- [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
