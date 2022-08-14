@@ -8,6 +8,7 @@
 - [DNS](https://www.youtube.com/watch?v=mpQZVYPuDGU)
 - [IP config](https://www.youtube.com/watch?v=ZKhorleA5aA)
 - [Trace Route](https://www.youtube.com/watch?v=up3bcBLZS74)
+- [NETSTAT](https://www.youtube.com/watch?v=8UZFpCQeXnM)
 - [Port Forwarding](https://www.youtube.com/watch?v=2G1ueMDgwxw)
 - [TCP vs UDP](https://www.youtube.com/watch?v=uwoD5YsGACg)
 - [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
