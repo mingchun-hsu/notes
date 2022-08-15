@@ -1,4 +1,4 @@
-# N
+# Notes
 
 ## Core
 - [Software-Engineering-at-Google](https://software-engineering-at-google.gh.miniasp.com)
@@ -55,3 +55,4 @@
 - [一篇不太一样的RxJava介绍](https://juejin.cn/post/6844903518915002375)
 - [我为什么不再推荐RxJava](https://juejin.cn/post/6844903838978146317)
 - [Mavericks](https://airbnb.io/mavericks)
+- [Conventional Commits](https://www.conventionalcommits.org)
