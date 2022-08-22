@@ -56,3 +56,4 @@
 - [我为什么不再推荐RxJava](https://juejin.cn/post/6844903838978146317)
 - [Mavericks](https://airbnb.io/mavericks)
 - [Conventional Commits](https://www.conventionalcommits.org)
+- [Scrcpy](https://github.com/Genymobile/scrcpy)
