@@ -46,6 +46,11 @@
 - [Using Hilt in your Android app](https://developer.android.com/codelabs/android-hilt)
 - [Advanced Android in Kotlin 05.1:Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics)
 - [Training Courses](https://developer.android.com/courses)
+- [Compose](https://developer.android.com/courses/jetpack-compose/course)
+
+### Study Jam
+- [2021](https://events.withgoogle.com/android-study-jam-twhk-2021/)
+- [2022](https://rsvp.withgoogle.com/events/asj-2022)
 
 ## Career
 - [What is a scrum master?](https://www.atlassian.com/agile/scrum/scrum-master)
