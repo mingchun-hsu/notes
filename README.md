@@ -39,6 +39,12 @@
 - [Handling click events in RecyclerView](https://medium.com/androiddevelopers/for-my-next-trick-i-will-write-about-onclick-45e0a6881c8a)
 - [Get ahead using headers in RecyclerView](https://medium.com/androiddevelopers/get-ahead-using-headers-in-recyclerview-2909a69b19)
 
+### Work Manager
+- [What WorkManager is and when to use WorkManager](https://medium.com/androiddevelopers/introducing-workmanager-2083bcfc4712)
+- [How to use the WorkManager API to schedule Work](https://medium.com/androiddevelopers/workmanager-basics-beba51e94048)
+- [WorkManager and Kotlin](https://medium.com/androiddevelopers/workmanager-meets-kotlin-b9ad02f7405e)
+- [WorkManager Periodicity](https://medium.com/androiddevelopers/workmanager-periodicity-ff35185ff006)
+
 ### Compose
 - [Consuming flows safely in Jetpack Compose](https://medium.com/androiddevelopers/consuming-flows-safely-in-jetpack-compose-cde014d0d5a3)
 
