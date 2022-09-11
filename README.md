@@ -50,7 +50,9 @@
 
 ### CodeLab
 - [Using Hilt in your Android app](https://developer.android.com/codelabs/android-hilt)
-- [Advanced Android in Kotlin 05.1:Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics)
+- [Advanced Android in Kotlin](https://developer.android.com/codelabs/advanced-android-kotlin-training-welcome)
+  - [03.2:Animation with MotionLayout](https://codelabs.developers.google.com/codelabs/motion-layout)
+  - [05.1:Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics)
 - [Training Courses](https://developer.android.com/courses)
 - [Compose](https://developer.android.com/courses/jetpack-compose/course)
 
